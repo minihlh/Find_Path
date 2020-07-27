@@ -1,0 +1,8 @@
+aa b cc
+aa d cc
+cc t aa
+dd b rr
+aa d pp
+pp a cc
+pp d cc
+
